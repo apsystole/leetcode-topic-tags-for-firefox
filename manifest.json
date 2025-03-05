@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "LeetCode Show Topics",
+    "version": "1.0",
+    "description": "In leetcode.com main Problems listing, automatically show the Topic Tags. Yes, it's a spoiler, but useful when you are focusing on a single algorithm (such as Topological Sort, or a Trie, or a Priority Queue, ...).",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://leetcode.com/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
