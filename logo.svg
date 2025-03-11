@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Background -->
+  <rect width="128" height="128" fill="#f5f5f5"/>
+  
+  <!-- LC Letters - Larger and with vibrant colors -->
+  <!-- L with gradient -->
+  <text x="20" y="65" font-family="Arial, sans-serif" font-size="84" font-weight="bold" fill="#FF5722">L</text>
+  <!-- C with gradient -->
+  <text x="60" y="75" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#2196F3">C</text>
+  
+  <!-- Tags - Only blue and light gray with dashes -->
+  <!-- Tag 1 -->
+  <rect x="15" y="70" width="25" height="12" rx="6" fill="#4285f4"/>
+  <text x="27.5" y="79" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="white">—-</text>
+  
+  <!-- Tag 2 -->
+  <rect x="45" y="70" width="30" height="12" rx="6" fill="#d9d9d9"/>
+  <text x="60" y="79" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#333">––</text>
+  
+  <!-- Tag 3 -->
+  <rect x="80" y="70" width="33" height="12" rx="6" fill="#4285f4"/>
+  <text x="96.5" y="79" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="white">-</text>
+  
+  <!-- Tag 4 -->
+  <rect x="20" y="87" width="27" height="12" rx="6" fill="#d9d9d9"/>
+  <text x="33.5" y="96" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#333">—</text>
+  
+  <!-- Tag 5 -->
+  <rect x="52" y="87" width="28" height="12" rx="6" fill="#4285f4"/>
+  <text x="66" y="96" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="white">–</text>
+  
+  <!-- Tag 6 -->
+  <rect x="85" y="87" width="26" height="12" rx="6" fill="#d9d9d9"/>
+  <text x="98" y="96" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#333">-</text>
+  
+  <!-- Tag 7 -->
+  <rect x="30" y="104" width="29" height="12" rx="6" fill="#4285f4"/>
+  <text x="44.5" y="113" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="white">—</text>
+  
+  <!-- Tag 8 -->
+  <rect x="64" y="104" width="35" height="12" rx="6" fill="#d9d9d9"/>
+  <text x="81.5" y="113" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#333">–</text>
+</svg>
