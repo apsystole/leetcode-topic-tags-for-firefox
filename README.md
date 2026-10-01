@@ -31,8 +31,8 @@ Visit <https://addons.mozilla.org/en-US/developers/addon/leetcode-topic-tags>
 
 ### Does It Work?
 
-Go to LeetCode -> Problems (<https://leetcode.com/problemset/>). For every problem entry,
-there should be a line of tags now (e.g. `Array`, `Recursion`, `Dynamic Programming`, ...). Voilà!
+Go to LeetCode -> Problems (<https://leetcode.com/problemset/>). For every row of the table,
+the tags should become visible now (e.g. `Array`, `Recursion`, `Dynamic Programming`, ...). Voilà!
 
 ### Cleanup
 
